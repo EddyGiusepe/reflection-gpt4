@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Evaluate the following phrase by transforming it into the spelling given.",
+        "input": "freind --> friend",
+        "output": "The input phrase \"freind\" contains a spelling error. The correct transformation of this phrase is as follows: \"freind\" should be transformed to \"friend.\" Therefore, the correct spelling is \"friend.\""
+    },
+    {
+        "instruction": "Edit the following sentence for grammar.",
+        "input": "He go to the park every day.",
+        "output": "The original sentence \"He go to the park every day\" contains a grammatical error in the verb form. The correct form should be \"He goes to the park every day.\" This is because the subject \"He\" is third person singular, and in English, the verb \"to go\" changes to \"goes\" when used with third person singular subjects. Therefore, the corrected sentence is grammatically accurate and maintains the original meaning."
+    },
+    {
+        "instruction": "Convert 45 kilometers to meters.",
+        "input": "",
+        "output": "To convert kilometers to meters, you can use the conversion factor that 1 kilometer is equal to 1000 meters. Therefore, to convert 45 kilometers to meters, you multiply 45 by 1000. \n\nSo, 45 kilometers is equal to 45 x 1000 = 45000 meters. \n\nThis means that 45 kilometers is the same distance as 45000 meters. Understanding this conversion is useful in various contexts, such as travel, sports, and scientific measurements."
+    }
+]
